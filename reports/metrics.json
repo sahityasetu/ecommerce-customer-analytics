@@ -1,0 +1,14 @@
+{
+  "rows_raw": 1067371,
+  "rows_clean": 1003338,
+  "customers": 5824,
+  "revenue_year1_gbp": 9396627,
+  "revenue_year2_gbp": 9632728,
+  "revenue_growth_pct": 2.5,
+  "top20pct_customers_revenue_share_pct": 76.9,
+  "repeat_customer_rate_pct": 71.7,
+  "median_month1_retention_pct": 20.2,
+  "median_month3_retention_pct": 20.0,
+  "return_rate_pct": 2.8,
+  "peak_month": "2011-11-01"
+}
